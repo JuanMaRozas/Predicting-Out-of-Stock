@@ -33,10 +33,12 @@ Out-of-Stock events cause significant revenue losses and customer dissatisfactio
 	•	Applicable across industries beyond packaged foods, wherever OOS is a concern. 
 
  📊 Performance
-	Metric        Random Forest    Ensemble
-	Precision     73.5%           70.8%
-	Recall        46.2%           56.7%
-	F-measure     59.9%           66.5%
+ 
+| Metric      | Random Forest | Ensemble |
+|-------------|---------------|----------|
+| Precision   | 73.5%         | 70.8%    |
+| Recall      | 46.2%         | 56.7%    |
+| F-measure   | 59.9%         | 66.5%    |
 
 💡 Future Directions
 
