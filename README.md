@@ -22,3 +22,30 @@ This project tackles the challenge of Out-of-Stock (OOS) events in retail, a sig
 	•	The ensemble model outperformed others, combining strengths of diverse algorithms.
 	•	Inclusion of new predictor variables improved Random Forest’s F-measure by 0.24 points.
 	•	Successfully implemented in a real-world retail environment with impactful results.
+ 
+ 🌟 Why It Matters
+
+Out-of-Stock events cause significant revenue losses and customer dissatisfaction. Our machine learning approach offers a scalable, data-driven solution to this critical supply chain challenge.
+
+🛒 Use Case
+
+	•	Designed for manufacturers aiming to predict OOS in collaboration with retail partners.
+	•	Applicable across industries beyond packaged foods, wherever OOS is a concern. 
+
+ 📊 Performance
+	Metric        Random Forest    Ensemble
+	Precision     73.5%           70.8%
+	Recall        46.2%           56.7%
+	F-measure     59.9%           66.5%
+
+💡 Future Directions
+
+	•	Explore deeper integration with real-time POS systems.
+	•	Apply advanced deep learning methods for further performance gains.
+	•	Expand to other regions and product categories.
+
+🔗 Citation
+
+For more details, refer to our published article:
+Predicting Out-of-Stock Using Machine Learning: An Application in a Retail Packaged Foods Manufacturing Company
+📄 DOI Link
