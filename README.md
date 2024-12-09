@@ -50,4 +50,4 @@ Out-of-Stock events cause significant revenue losses and customer dissatisfactio
 
 For more details, refer to our published article:
 Predicting Out-of-Stock Using Machine Learning: An Application in a Retail Packaged Foods Manufacturing Company
-📄 DOI Link
+📄 DOI Link: https://www.mdpi.com/2079-9292/10/22/2787
